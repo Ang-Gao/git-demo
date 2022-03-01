@@ -14,4 +14,9 @@ hello world
 hello world 
 hello world 
 hello world 
+<<<<<<< HEAD
 hellols .git/!ssfdffsdfsfsdfsdfdsf
+=======
+sssssssssssssssssssssssssssssssss
+hellols .git/!
+>>>>>>> sever
